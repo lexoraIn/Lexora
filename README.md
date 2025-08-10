@@ -1,0 +1,2 @@
+# Lexora
+A stylish chatbot
